@@ -1,0 +1,22 @@
+
+h1 {
+    color: green;
+}
+
+#myCanvas {
+    background-color: #a39797;
+    width: 800px;
+    height: 600px;
+    position: absolute;
+    float: right;
+    margin: 10px;
+}
+
+#myChart {
+    background-color:#8b6262;
+    position:relative; 
+    width: 800px;
+    height: 600px;
+    float: left;
+    margin: 10px;
+}
